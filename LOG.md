@@ -1,0 +1,1 @@
+2026-11-19 · Set up environment. Rotation matrices preserve length. Therefore determinant is 1.
